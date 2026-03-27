@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\.github",
+    "\\hooks",
+    "\\hooks\\dependency-license-checker",
+    "\\hooks\\governance-audit",
+    "\\hooks\\secrets-scanner",
+    "\\hooks\\session-auto-commit",
+    "\\hooks\\session-logger",
+    "\\hooks\\tool-guardian"
+  ],
+  "SelectedNode": "\\hooks\\session-logger\\hooks.json",
+  "PreviewInSolutionExplorer": false
+}
